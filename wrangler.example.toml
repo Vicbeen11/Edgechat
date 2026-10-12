@@ -21,7 +21,7 @@ GC_R2_OPERATION_BUDGET = "300"
 SITE_ORIGINS = ""
 R2_DELETE_MAX_RETRY = "8"
 ORPHAN_UPLOAD_RETENTION_DAYS = "1"
-ALLOWED_FILE_TYPES = "image/,video/,audio/,application/pdf,text/"
+ALLOWED_FILE_TYPES = "image/,video/,audio/,application/pdf,text/,application/vnd.openxmlformats-officedocument.wordprocessingml.document,application/vnd.openxmlformats-officedocument.spreadsheetml.sheet,application/vnd.openxmlformats-officedocument.presentationml.presentation,application/msword,application/vnd.ms-excel,application/vnd.ms-powerpoint,application/zip"
 MAX_FILE_SIZE = "20971520"
 
 [[d1_databases]]
